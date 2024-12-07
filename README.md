@@ -1,2 +1,4 @@
 # making sign-up-page
-![alt text](sign-up-form.png)
+![alt text][def]
+
+[def]: sign-up-form.png
