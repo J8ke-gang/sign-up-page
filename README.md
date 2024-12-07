@@ -1,2 +1,2 @@
-# sign-up-page
-making a sign up page
+# making sign-up-page
+![alt text](sign-up-form.png)
